@@ -3,7 +3,7 @@ services:
     runtime: image
     name: albyhub
     image:
-      url: ghcr.io/getalby/hub:render-phoneixd-4628e4b
+      url: ghcr.io/getalby/hub:latest
     numInstances: 1
     region: frankfurt # Default: oregon
     plan: starter
